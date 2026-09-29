@@ -1,6 +1,6 @@
 # JobTrack
 
-JobTrack is a portfolio-quality Job Application Tracking SaaS built with **Core PHP 8+, PDO, MySQL, HTML/CSS and vanilla JavaScript**.
+JobTrack is a Job Application Tracking SaaS built with **Core PHP 8+, PDO, MySQL, HTML/CSS and vanilla JavaScript**.
 
 It demonstrates practical backend skills without relying on Laravel or another PHP framework.
 
